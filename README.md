@@ -1,4 +1,4 @@
-## Final Project
+## DTSA 5511 Final Project
 This is the assignment of CU Boulder's *Introduction to Deep Learning*, Week 6 : Final Project.
 
 ### About dataset
